@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **nxtinnovation2050@gmail.com** For Collaboration/Project o
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
+- 😄 **Pronouns:** Rohit Yogi
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 <!-- Snake Game Repo View -->
